@@ -1,0 +1,4 @@
+const int *p; //duz
+int *const p2 //yanlis cunki ozu sabitdir
+reference ve pointer varsa low leveldir.
+const olanda ise top leveldir
